@@ -1,4 +1,5 @@
 /ip firewall address-list
+add list=blacklist comment=blacklist address=1.10.16.0/20
 add list=blacklist comment=blacklist address=1.19.0.0/16
 add list=blacklist comment=blacklist address=1.32.128.0/18
 add list=blacklist comment=blacklist address=2.56.192.0/22
@@ -257,6 +258,7 @@ add list=blacklist comment=blacklist address=103.180.224.0/19
 add list=blacklist comment=blacklist address=103.189.224.0/19
 add list=blacklist comment=blacklist address=103.197.240.0/22
 add list=blacklist comment=blacklist address=103.199.88.0/22
+add list=blacklist comment=blacklist address=103.199.184.0/22
 add list=blacklist comment=blacklist address=103.205.84.0/22
 add list=blacklist comment=blacklist address=103.207.160.0/22
 add list=blacklist comment=blacklist address=103.210.244.0/22
