@@ -71,7 +71,7 @@ add list=blacklist comment=blacklist address=196.45.120.0/21
 add list=blacklist comment=blacklist address=196.196.8.0/22
 add list=blacklist comment=blacklist address=197.242.100.0/22
 add list=blacklist comment=blacklist address=197.242.104.0/21
-add list=blacklist comment=blacklist address=197.242.112.0/23
+add list=blacklist comment=blacklist address=197.242.112.0/20
 add list=blacklist comment=blacklist address=203.156.197.0/24
 add list=blacklist comment=blacklist address=204.2.189.0/24
 add list=blacklist comment=blacklist address=204.141.204.0/24
